@@ -1,0 +1,11 @@
+h1 {
+    /*
+    everything together (selector, declaration block) is a style rule or ruleset
+    tag outside brackets is the selector
+    everything inside brackets is declaration block
+    color: blue = declaration
+    color = property
+    blue = value
+    */
+    color: blue;
+}
